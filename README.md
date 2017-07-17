@@ -1,2 +1,3 @@
 # hello-world
 test repository, no relevant entries or documents in here
+I just noticed, that I already failed in the early steps of the tutorial, because I made changes directly in the Master-branch. Silly me...
